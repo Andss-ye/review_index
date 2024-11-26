@@ -1,0 +1,29 @@
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #f4f4f4;
+}
+.navegacion {
+  background-color: #333;
+  color: white;
+  padding: 10px;
+  text-align: center;
+}
+.navegacion a {
+  color: white;
+  text-decoration: none;
+  margin: 0 15px;
+}
+.subrayado {
+  text-decoration: underline;
+  color: blue;
+}
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 20px auto;
+}
