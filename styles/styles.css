@@ -27,3 +27,13 @@ img {
   display: block;
   margin: 20px auto;
 }
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+table, th, td {
+  border: 1px solid #333;
+  padding: 10px;
+  text-align: center;
+}
